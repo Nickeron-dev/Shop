@@ -1,5 +1,6 @@
 body {
 	font-family: Arial, sans-serif;
+	
 }
 
 header {
@@ -30,5 +31,82 @@ header a {
 }
 
 .cart {
+	float: right;
+}
+
+.categories {
+	float: left;
+	background-color: yellow;
+	width: 200px;
+}
+
+.categories h2 {
+	text-align: center;
+}
+
+.categories a {
+	color: black;
+	text-decoration: none;
+}
+
+.categories .smartphones {
+	padding-right: 83px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.categories .tablets {
+	padding-right: 127px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.categories .laptops {
+	padding-right: 123px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.categories .computers {
+	padding-right: 100px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.categories .cameras {
+	padding-right: 115px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.categories .monowheels {
+	padding-right: 90px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.categories .scooters {
+	padding-right: 115px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+.categories .speakers {
+	padding-right: 111px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+.each {
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.each:hover {
+	color: black;
+	background-color: #D4BD00;
+	
+}
+
+.arrowImg {
 	float: right;
 }
