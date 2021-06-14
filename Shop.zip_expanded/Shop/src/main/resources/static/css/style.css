@@ -110,3 +110,30 @@ header a {
 .arrowImg {
 	float: right;
 }
+
+.recommendations {
+	text-align: center;
+}
+
+.iphone12 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+
+}
+
+
+
+.iphone12 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.iphone12 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
