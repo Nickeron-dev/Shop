@@ -115,14 +115,27 @@ header a {
 	text-align: center;
 }
 
+.row1 {
+	display: table;
+	table-layout: fixed;
+	border-spacing: 10px;
+}
+
 .iphone12 {
 	border: 2px solid black;
 	margin-left: 220px;
 	width: 200px;
-
+	display: table-cell;
 }
 
+.iphone12 a {
+	text-decoration: none;
+	color: black;
+}
 
+.iphone12 a:hover {
+	text-decoration: underline;
+}
 
 .iphone12 input {
 	background-color: yellow;
@@ -136,4 +149,38 @@ header a {
 .iphone12 input:hover {
 	background-color: #D4BD00;
 	cursor: pointer;
+}
+
+.macbookAirM1 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.macbookAirM1 a {
+	text-decoration: none;
+	color: black;
+}
+
+.macbookAirM1 a:hover {
+	text-decoration: underline;
+}
+
+.macbookAirM1 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.macbookAirM1 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.macbookAirM1 img {
+	margin-left: 5px;
 }
