@@ -15,9 +15,6 @@ header a {
 	color: black;
 }
 
-
-
-
 .register {
 	padding-top: 30px;
 	float: right;
@@ -115,7 +112,7 @@ header a {
 	text-align: center;
 }
 
-.row1 {
+.row {
 	display: table;
 	table-layout: fixed;
 	border-spacing: 10px;
@@ -182,5 +179,172 @@ header a {
 }
 
 .macbookAirM1 img {
+	margin-left: 5px;
+}
+
+.inmotionV8 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.inmotionV8 a {
+	text-decoration: none;
+	color: black;
+}
+
+.inmotionV8 a:hover {
+	text-decoration: underline;
+}
+
+.inmotionV8 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.inmotionV8 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.inmotionV8 img {
+	margin-left: 5px;
+}
+
+.scooter1s {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.scooter1s a {
+	text-decoration: none;
+	color: black;
+}
+
+.scooter1s a:hover {
+	text-decoration: underline;
+}
+
+.scooter1s input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.scooter1s input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.scooter1s img {
+	margin-left: 5px;
+}
+
+.macMiniM1 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.macMiniM1 a {
+	text-decoration: none;
+	color: black;
+}
+
+.macMiniM1 a:hover {
+	text-decoration: underline;
+}
+
+.macMiniM1 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.macMiniM1 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+
+.djiPocket2 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.djiPocket2 a {
+	text-decoration: none;
+	color: black;
+}
+
+.djiPocket2 a:hover {
+	text-decoration: underline;
+}
+
+.djiPocket2 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.djiPocket2 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.djiPocket2 img {
+	margin-left: 58px;
+}
+
+.jblCharge4 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.jblCharge4 a {
+	text-decoration: none;
+	color: black;
+}
+
+.jblCharge4 a:hover {
+	text-decoration: underline;
+}
+
+.jblCharge4 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.jblCharge4 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.jblCharge4 img {
 	margin-left: 5px;
 }
