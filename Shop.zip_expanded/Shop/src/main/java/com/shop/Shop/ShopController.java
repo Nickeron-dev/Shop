@@ -11,4 +11,43 @@ public class ShopController {
 		return "index";
 	}
 	
+	@GetMapping("/smartphones")
+	public String smartphones() {
+		return "smartphones";
+	}
+	
+	@GetMapping("/tablets")
+	public String tablets() {
+		return "tablets";
+	}
+	
+	@GetMapping("/laptops")
+	public String laptops() {
+		return "laptops";
+	}
+	
+	@GetMapping("/computers")
+	public String computers() {
+		return "computers";
+	}
+	
+	@GetMapping("/cameras")
+	public String cameras() {
+		return "cameras";
+	}
+	
+	@GetMapping("/monowheels")
+	public String monowheels() {
+		return "monowheels";
+	}
+	
+	@GetMapping("/scooters")
+	public String scooters() {
+		return "scooters";
+	}
+	
+	@GetMapping("/speakers")
+	public String speakers() {
+		return "speakers";
+	}
 }

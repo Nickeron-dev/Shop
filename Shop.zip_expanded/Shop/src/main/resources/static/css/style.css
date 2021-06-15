@@ -47,49 +47,49 @@ header a {
 }
 
 .categories .smartphones {
-	padding-right: 83px;
+	padding-right: 75px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
 
 .categories .tablets {
-	padding-right: 127px;
+	padding-right: 119px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
 
 .categories .laptops {
-	padding-right: 123px;
+	padding-right: 114px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
 
 .categories .computers {
-	padding-right: 100px;
+	padding-right: 92px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
 
 .categories .cameras {
-	padding-right: 115px;
+	padding-right: 106px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
 
 .categories .monowheels {
-	padding-right: 90px;
+	padding-right: 81px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
 
 .categories .scooters {
-	padding-right: 115px;
+	padding-right: 107px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
 
 .categories .speakers {
-	padding-right: 111px;
+	padding-right: 103px;
 	padding-bottom: 15px;
 	padding-top: 15px;
 }
@@ -114,6 +114,8 @@ header a {
 
 .row {
 	display: table;
+	margin-left: auto;
+	margin-right: auto;
 	table-layout: fixed;
 	border-spacing: 10px;
 }
