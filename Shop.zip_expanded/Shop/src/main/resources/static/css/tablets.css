@@ -128,23 +128,23 @@ hr {
 	border-spacing: 10px;
 }
 
-.iphone12 {
+.ipadAir109 {
 	border: 2px solid black;
 	margin-left: 220px;
 	width: 200px;
 	display: table-cell;
 }
 
-.iphone12 a {
+.ipadAir109 a {
 	text-decoration: none;
 	color: black;
 }
 
-.iphone12 a:hover {
+.ipadAir109 a:hover {
 	text-decoration: underline;
 }
 
-.iphone12 input {
+.ipadAir109 input {
 	background-color: yellow;
 	float: center;
 	margin-left: 1px;
@@ -153,7 +153,68 @@ hr {
 	border: none;
 }
 
-.iphone12 input:hover {
+.ipadAir109 input:hover {
 	background-color: #D4BD00;
 	cursor: pointer;
 }
+
+.ipadMini5 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.ipadMini5 a {
+	text-decoration: none;
+	color: black;
+}
+
+.ipadMini5 a:hover {
+	text-decoration: underline;
+}
+
+.ipadMini5 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.ipadMini5 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.ipadM1 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.ipadM1 a {
+	text-decoration: none;
+	color: black;
+}
+
+.ipadM1 a:hover {
+	text-decoration: underline;
+}
+
+.ipadM1 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.ipadM1 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
