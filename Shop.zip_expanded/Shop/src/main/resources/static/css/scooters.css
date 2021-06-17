@@ -161,3 +161,72 @@ hr {
 .scooter1s img {
 	margin-left: 5px;
 }
+
+.ninebotE10 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.ninebotE10 a {
+	text-decoration: none;
+	color: black;
+}
+
+.ninebotE10 a:hover {
+	text-decoration: underline;
+}
+
+.ninebotE10 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.ninebotE10 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.ninebotE10 img {
+	margin-left: 5px;
+}
+
+.ninebotE45E {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.ninebotE45E a {
+	text-decoration: none;
+	color: black;
+}
+
+.ninebotE45E a:hover {
+	text-decoration: underline;
+}
+
+.ninebotE45E input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.ninebotE45E input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.ninebotE45E img {
+	margin-left: 5px;
+}
+

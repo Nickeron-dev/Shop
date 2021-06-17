@@ -161,3 +161,71 @@ hr {
 .inmotionV8 img {
 	margin-left: 5px;
 }
+
+.inmotionV10F {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.inmotionV10F a {
+	text-decoration: none;
+	color: black;
+}
+
+.inmotionV10F a:hover {
+	text-decoration: underline;
+}
+
+.inmotionV10F input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.inmotionV10F input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.inmotionV10F img {
+	margin-left: 5px;
+}
+
+.ninebotZ10 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.ninebotZ10 a {
+	text-decoration: none;
+	color: black;
+}
+
+.ninebotZ10 a:hover {
+	text-decoration: underline;
+}
+
+.ninebotZ10 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.ninebotZ10 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.ninebotZ10 img {
+	margin-left: 5px;
+}

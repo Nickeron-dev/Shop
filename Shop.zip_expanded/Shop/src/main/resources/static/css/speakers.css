@@ -162,3 +162,144 @@ hr {
 .jblCharge4 img {
 	margin-left: 5px;
 }
+
+.jblCharge5 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	padding-top: 110px;
+	display: table-cell;
+}
+
+.jblCharge5 a {
+	text-decoration: none;
+	color: black;
+}
+
+.jblCharge5 a:hover {
+	text-decoration: underline;
+}
+
+.jblCharge5 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.jblCharge5 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.jblCharge5 img {
+	margin-left: 5px;
+}
+
+.jblPartyBox {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	padding-top: 110px;
+	display: table-cell;
+}
+
+.jblPartyBox a {
+	text-decoration: none;
+	color: black;
+}
+
+.jblPartyBox a:hover {
+	text-decoration: underline;
+}
+
+.jblPartyBox input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.jblPartyBox input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.jblPartyBox img {
+	margin-left: 15px;
+}
+
+.jblFlip5 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	padding-top: 110px;
+	display: table-cell;
+}
+
+.jblFlip5 a {
+	text-decoration: none;
+	color: black;
+}
+
+.jblFlip5 a:hover {
+	text-decoration: underline;
+}
+
+.jblFlip5 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.jblFlip5 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.jblFlip5 img {
+	margin-left: 15px;
+}
+
+.jblTuner2 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	padding-top: 110px;
+	display: table-cell;
+}
+
+.jblTuner2 a {
+	text-decoration: none;
+	color: black;
+}
+
+.jblTuner2 a:hover {
+	text-decoration: underline;
+}
+
+.jblTuner2 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.jblTuner2 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.jblTuner2 img {
+	margin-left: 15px;
+}
+
