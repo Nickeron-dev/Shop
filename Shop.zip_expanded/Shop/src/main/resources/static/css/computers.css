@@ -157,3 +157,63 @@ hr {
 	background-color: #D4BD00;
 	cursor: pointer;
 }
+
+.mac2020 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.mac2020 a {
+	text-decoration: none;
+	color: black;
+}
+
+.mac2020 a:hover {
+	text-decoration: underline;
+}
+
+.mac2020 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.mac2020 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.macM1 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.macM1 a {
+	text-decoration: none;
+	color: black;
+}
+
+.macM1 a:hover {
+	text-decoration: underline;
+}
+
+.macM1 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.macM1 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}

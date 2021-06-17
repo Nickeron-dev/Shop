@@ -161,3 +161,140 @@ hr {
 .macbookAirM1 img {
 	margin-left: 5px;
 }
+
+.macbookProM1 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.macbookProM1 a {
+	text-decoration: none;
+	color: black;
+}
+
+.macbookProM1 a:hover {
+	text-decoration: underline;
+}
+
+.macbookProM1 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.macbookProM1 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.macbookProM1 img {
+	margin-left: 5px;
+}
+
+.macbookPro16 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.macbookPro16 a {
+	text-decoration: none;
+	color: black;
+}
+
+.macbookPro16 a:hover {
+	text-decoration: underline;
+}
+
+.macbookPro16 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.macbookPro16 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.macbookPro16 img {
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.dellXPS13 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.dellXPS13 a {
+	text-decoration: none;
+	color: black;
+}
+
+.dellXPS13 a:hover {
+	text-decoration: underline;
+}
+
+.dellXPS13 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.dellXPS13 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.dellXPS13 img {
+	margin-left: 5px;
+}
+
+.dellXPS15 {
+	border: 2px solid black;
+	margin-left: 220px;
+	width: 200px;
+	display: table-cell;
+}
+
+.dellXPS15 a {
+	text-decoration: none;
+	color: black;
+}
+
+.dellXPS15 a:hover {
+	text-decoration: underline;
+}
+
+.dellXPS15 input {
+	background-color: yellow;
+	float: center;
+	margin-left: 1px;
+	width: 198px;
+	height: 30px;
+	border: none;
+}
+
+.dellXPS15 input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
+
+.dellXPS15 img {
+	margin-left: 5px;
+}
