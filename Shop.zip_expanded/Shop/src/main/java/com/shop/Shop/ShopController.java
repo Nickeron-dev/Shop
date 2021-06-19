@@ -58,4 +58,29 @@ public class ShopController {
 	public String iphone12() {
 		return "iphone12";
 	}
+	
+	@GetMapping("/smartphones/iphoneXS")
+	public String iphoneXS() {
+		return "iphoneXS";
+	}
+	
+	@GetMapping("/smartphones/iphoneSE2")
+	public String iphoneSE2() {
+		return "iphoneSE2";
+	}
+	
+	@GetMapping("/smartphones/onePlus9")
+	public String onePlus9() {
+		return "onePlus9";
+	}
+	
+	@GetMapping("/smartphones/samsungS21")
+	public String samsungS21() {
+		return "samsungS21";
+	}
+	
+	@GetMapping("/smartphones/redmi9T")
+	public String redmi9T() {
+		return "redmi9T";
+	}
 }

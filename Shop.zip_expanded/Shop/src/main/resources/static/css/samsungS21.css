@@ -46,6 +46,9 @@ hr {
 
 .photo {
 	float: left;
+	margin-left: 80px;
+	margin-top: 30px;
+	padding-bottom: 200px;
 }
 
 .info {
@@ -74,6 +77,8 @@ hr {
 
 .info input {
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: yellow;
 	font-size: 1.5em;
 }
