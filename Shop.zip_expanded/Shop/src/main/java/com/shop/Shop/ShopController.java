@@ -11,6 +11,7 @@ public class ShopController {
 		return "index";
 	}
 	
+	// Categories
 	@GetMapping("/smartphones")
 	public String smartphones() {
 		return "smartphones";
@@ -49,5 +50,12 @@ public class ShopController {
 	@GetMapping("/speakers")
 	public String speakers() {
 		return "speakers";
+	}
+	
+	
+	// Goods
+	@GetMapping("/smartphones/iphone12")
+	public String iphone12() {
+		return "iphone12";
 	}
 }
