@@ -54,6 +54,8 @@ public class ShopController {
 	
 	
 	// Goods
+	
+	// Smartphones
 	@GetMapping("/smartphones/iphone12")
 	public String iphone12() {
 		return "iphone12";
@@ -83,4 +85,22 @@ public class ShopController {
 	public String redmi9T() {
 		return "redmi9T";
 	}
+	
+	// Tablets
+	@GetMapping("/tablets/ipadAir109")
+	public String ipadAir109() {
+		return "ipadAir109";
+	}
+	
+	@GetMapping("/tablets/ipadMini5")
+	public String ipadMini5() {
+		return "ipadMini5";
+	}
+	
+	@GetMapping("/tablets/ipadM1")
+	public String ipadM1() {
+		return "ipadM1";
+	}
+	
+	
 }

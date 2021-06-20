@@ -1,0 +1,87 @@
+body {
+	font-family: Arial, sans-serif;
+	
+}
+
+header {
+	background-color: yellow;
+	height: 80px;
+}
+
+header a {
+	text-decoration: none;
+	padding: 15px 16px;
+	vertical-align: middle;
+	color: black;
+}
+
+.register {
+	padding-top: 30px;
+	float: right;
+	vertical-align: middle;
+}
+
+.login {
+	padding-top: 30px;
+	float: right;
+	vertical-align: middle;
+}
+
+.cart {
+	float: right;
+}
+
+.path {
+	text-decoration: none;
+	color: black
+}
+
+.path:hover {
+	text-decoration: underline;
+}
+
+hr {
+	border-top: 3px solid yellow;
+}
+
+.photo {
+	float: left;
+	padding-bottom: 200px;
+}
+
+.info {
+	text-align: center;
+}
+
+.info h1 {
+	text-align: center;
+}
+
+.info h4 {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.info table {
+	margin-left: auto;
+	margin-right: auto;
+	border-spacing: 7px;
+}
+
+.info p {
+	font-size: 1.5em;
+	text-align: center;
+}
+
+.info input {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: yellow;
+	font-size: 1.5em;
+}
+
+.info input:hover {
+	background-color: #D4BD00;
+	cursor: pointer;
+}
