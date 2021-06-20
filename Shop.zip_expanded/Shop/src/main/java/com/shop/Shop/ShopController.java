@@ -102,5 +102,29 @@ public class ShopController {
 		return "ipadM1";
 	}
 	
+	// Laptops
+	@GetMapping("/laptops/macbook-air-m1")
+	public String macbookAirM1() {
+		return "macbookAirM1";
+	}
 	
+	@GetMapping("/laptops/macbook-pro-m1")
+	public String macbookProM1() {
+		return "macbookProM1";
+	}
+	
+	@GetMapping("/laptops/macbook-pro-16")
+	public String macbookPro16() {
+		return "macbookPro16";
+	}
+	
+	@GetMapping("/laptops/dellXPS13")
+	public String dellXPS13() {
+		return "dellXPS13";
+	}
+	
+	@GetMapping("/laptops/dellXPS15")
+	public String dellXPS15() {
+		return "dellXPS15";
+	}
 }
