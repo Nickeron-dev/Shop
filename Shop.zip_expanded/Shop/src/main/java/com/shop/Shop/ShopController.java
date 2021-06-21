@@ -191,4 +191,30 @@ public class ShopController {
 	public String ninebotE45E() {
 		return "ninebotE45E";
 	}
+	
+	// Speakers
+	@GetMapping("speakers/jblCharge4")
+	public String jblCharge4() {
+		return "jblCharge4";
+	}
+	
+	@GetMapping("speakers/jblCharge5")
+	public String jblCharge5() {
+		return "jblCharge5";
+	}
+	
+	@GetMapping("speakers/jblPartyBox")
+	public String jblPartyBox() {
+		return "jblPartyBox";
+	}
+	
+	@GetMapping("speakers/jblFlip5")
+	public String jblFlip5() {
+		return "jblFlip5";
+	}
+	
+	@GetMapping("speakers/jblTuner2")
+	public String jblTuner2() {
+		return "jblTuner2";
+	}
 }
