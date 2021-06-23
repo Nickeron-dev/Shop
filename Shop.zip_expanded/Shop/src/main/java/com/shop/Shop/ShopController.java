@@ -1,10 +1,15 @@
 package com.shop.Shop;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 
 @Controller
 public class ShopController {
+	
+	@Autowired
+	private CartItemRepository cartRepository;
 	
 	@GetMapping("/home")
 	public String home() {
@@ -216,5 +221,13 @@ public class ShopController {
 	@GetMapping("speakers/jblTuner2")
 	public String jblTuner2() {
 		return "jblTuner2";
+	}
+	
+	@GetMapping(params = "iphone12", value = "iphone12")
+	public String buyIphone12() {
+		System.out.println("You've chosen iphone 12!");
+		CartItem iphoneItem = new CartItem(1, 1);
+		cartRepository.save(iphoneItem);
+		return "redirect:/home";
 	}
 }
